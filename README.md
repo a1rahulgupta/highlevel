@@ -1,12 +1,12 @@
 # HighLevel Assignment
 
-#React Setup
+## React Setup
 
 cd client 
 `npm i`
 `npm start`
 
-# Node Js Setup
+## Node Js Setup
 Need to setup mongodb URL and put db.js
 
 cd server
