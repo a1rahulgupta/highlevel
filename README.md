@@ -1,4 +1,4 @@
-# HighLevel Assignment
+# HighLevel
 
 ## React Setup
 
