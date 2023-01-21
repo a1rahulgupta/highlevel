@@ -4,7 +4,7 @@
 
 cd client 
 `npm i`
-`npm start`
+`npm start` `localhost:4000/`
 
 ## Node Js Setup
 Need to setup mongodb URL and put db.js
@@ -15,20 +15,28 @@ cd server
 cd src
 `node index.js`
 
-## API - URL
+## API - URL (localhost:4000/)
 
-###- End Point--Post--transect/:walletId
-###-- End Point--Get--transect/:walletId
-###-- End Point--Post--wallet/setup
-###-- End Point--Get--wallet/getWallet
-###-- End Point--Get--wallet/:id
+ 1- End Point--Post--transect/:walletId
+ 
+ 2- End Point--Get--transect/:walletId
+
+ 3- End Point--Post--wallet/setup
+ 
+ 4- End Point--Get--wallet/getWallet
+
+ 5- End Point--Get--wallet/:id
 
 ##-Functionality - 
 
-###-- User can create wallet
-###-- User can make a transection based on wallet
-###-- User can view all transection based on wallet
-###-- User can view all wallets
+
+ User can create wallet
+ 
+ User can make a transection based on wallet
+ 
+ User can view all transection based on wallet
+
+ User can view all wallets
 
 
 
