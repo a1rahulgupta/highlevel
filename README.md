@@ -27,7 +27,7 @@ cd src
 
  5- End Point--Get--wallet/:id
 
-##-Functionality - 
+## Functionality - 
 
 
  User can create wallet
