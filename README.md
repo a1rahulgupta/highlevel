@@ -4,7 +4,7 @@
 
 cd client 
 `npm i`
-`npm start` `localhost:4000/`
+`npm start` `localhost:3000/`
 
 ## Node Js Setup
 Need to setup mongodb URL and put db.js
